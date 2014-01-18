@@ -1,0 +1,10 @@
+C:\Users\Juan Pablo\Documents\Visual Studio 2012\JuanLibrary\JuanLibrary\bin\Debug\JuanLibrary.dll
+C:\Users\Juan Pablo\Documents\Visual Studio 2012\JuanLibrary\JuanLibrary\bin\Debug\JuanLibrary.pdb
+C:\Users\Juan Pablo\Documents\Visual Studio 2012\JuanLibrary\JuanLibrary\obj\Debug\JuanLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Juan Pablo\Documents\Visual Studio 2012\JuanLibrary\JuanLibrary\obj\Debug\JuanLibrary.dll
+C:\Users\Juan Pablo\Documents\Visual Studio 2012\JuanLibrary\JuanLibrary\obj\Debug\JuanLibrary.pdb
+C:\Users\Public\Documents\JuanLibrary\obj\Debug\JuanLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\JuanLibrary\obj\Debug\JuanLibrary.dll
+C:\Users\Public\Documents\JuanLibrary\bin\Debug\JuanLibrary.dll
+C:\Users\Public\Documents\JuanLibrary\bin\Debug\JuanLibrary.pdb
+C:\Users\Public\Documents\JuanLibrary\obj\Debug\JuanLibrary.pdb

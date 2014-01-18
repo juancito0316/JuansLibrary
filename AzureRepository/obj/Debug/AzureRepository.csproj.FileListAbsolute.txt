@@ -1,0 +1,7 @@
+C:\Users\Public\Documents\JuanLibrary\AzureRepository\bin\Debug\AzureRepository.dll
+C:\Users\Public\Documents\JuanLibrary\AzureRepository\bin\Debug\AzureRepository.pdb
+C:\Users\Public\Documents\JuanLibrary\AzureRepository\bin\Debug\JuanLibrary.dll
+C:\Users\Public\Documents\JuanLibrary\AzureRepository\bin\Debug\JuanLibrary.pdb
+C:\Users\Public\Documents\JuanLibrary\AzureRepository\obj\Debug\AzureRepository.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\JuanLibrary\AzureRepository\obj\Debug\AzureRepository.dll
+C:\Users\Public\Documents\JuanLibrary\AzureRepository\obj\Debug\AzureRepository.pdb

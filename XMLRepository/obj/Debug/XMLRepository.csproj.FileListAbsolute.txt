@@ -1,0 +1,7 @@
+C:\Users\Public\Documents\JuanLibrary\XMLRepository\bin\Debug\XMLRepository.dll
+C:\Users\Public\Documents\JuanLibrary\XMLRepository\bin\Debug\XMLRepository.pdb
+C:\Users\Public\Documents\JuanLibrary\XMLRepository\bin\Debug\JuanLibrary.dll
+C:\Users\Public\Documents\JuanLibrary\XMLRepository\bin\Debug\JuanLibrary.pdb
+C:\Users\Public\Documents\JuanLibrary\XMLRepository\obj\Debug\XMLRepository.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\JuanLibrary\XMLRepository\obj\Debug\XMLRepository.dll
+C:\Users\Public\Documents\JuanLibrary\XMLRepository\obj\Debug\XMLRepository.pdb
