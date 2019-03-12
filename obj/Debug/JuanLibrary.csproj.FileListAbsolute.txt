@@ -8,3 +8,9 @@ C:\Users\Public\Documents\JuanLibrary\obj\Debug\JuanLibrary.dll
 C:\Users\Public\Documents\JuanLibrary\bin\Debug\JuanLibrary.dll
 C:\Users\Public\Documents\JuanLibrary\bin\Debug\JuanLibrary.pdb
 C:\Users\Public\Documents\JuanLibrary\obj\Debug\JuanLibrary.pdb
+C:\Users\juanc\projects\Utilities\obj\Debug\JuanLibrary.csprojResolveAssemblyReference.cache
+C:\Users\juanc\projects\Utilities\obj\Debug\JuanLibrary.csproj.CoreCompileInputs.cache
+C:\Users\juanc\projects\Utilities\obj\Debug\JuanLibrary.dll
+C:\Users\juanc\projects\Utilities\obj\Debug\JuanLibrary.pdb
+C:\Users\juanc\projects\Utilities\bin\Debug\JuanLibrary.dll
+C:\Users\juanc\projects\Utilities\bin\Debug\JuanLibrary.pdb

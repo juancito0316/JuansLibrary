@@ -1,7 +1,0 @@
-C:\Users\Public\Documents\JuanLibrary\SQLRepository\bin\Debug\SQLRepository.dll
-C:\Users\Public\Documents\JuanLibrary\SQLRepository\bin\Debug\SQLRepository.pdb
-C:\Users\Public\Documents\JuanLibrary\SQLRepository\bin\Debug\JuanLibrary.dll
-C:\Users\Public\Documents\JuanLibrary\SQLRepository\bin\Debug\JuanLibrary.pdb
-C:\Users\Public\Documents\JuanLibrary\SQLRepository\obj\Debug\SQLRepository.csprojResolveAssemblyReference.cache
-C:\Users\Public\Documents\JuanLibrary\SQLRepository\obj\Debug\SQLRepository.dll
-C:\Users\Public\Documents\JuanLibrary\SQLRepository\obj\Debug\SQLRepository.pdb

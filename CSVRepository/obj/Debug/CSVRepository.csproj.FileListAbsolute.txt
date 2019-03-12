@@ -1,7 +1,0 @@
-C:\Users\Public\Documents\JuanLibrary\CSVRepository\bin\Debug\CSVRepository.dll
-C:\Users\Public\Documents\JuanLibrary\CSVRepository\bin\Debug\CSVRepository.pdb
-C:\Users\Public\Documents\JuanLibrary\CSVRepository\bin\Debug\JuanLibrary.dll
-C:\Users\Public\Documents\JuanLibrary\CSVRepository\bin\Debug\JuanLibrary.pdb
-C:\Users\Public\Documents\JuanLibrary\CSVRepository\obj\Debug\CSVRepository.csprojResolveAssemblyReference.cache
-C:\Users\Public\Documents\JuanLibrary\CSVRepository\obj\Debug\CSVRepository.dll
-C:\Users\Public\Documents\JuanLibrary\CSVRepository\obj\Debug\CSVRepository.pdb
